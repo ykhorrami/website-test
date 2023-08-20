@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #212121;
+  height: 95vh;
+  padding: 0 200px;
+}
+
+p {
+  font-size: 1.5rem;
+  font-family: monospace;
+  text-align: justify;
+  line-height: 150%;
+  color: #aaa;
+}
